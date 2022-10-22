@@ -2,13 +2,13 @@
 
 ## Serverless 
 
-![sta](https://user-images.githubusercontent.com/80678596/advantages.jpg)
+![sta](https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/advantages.jpg)
 
 Your ability to delegate more of your operational duties to AWS and so increase your agility and innovation is made possible by serverless, which is the cloud's inherent architecture. You may create and execute apps and services using serverless technology without giving servers any thought. It does away with infrastructure management duties like capacity provisioning, operating system upkeep, server or cluster provisioning, and patching. Almost any backend service or application can be built with them, and everything needed to run and scale your application with high availability is taken care of for you.
 
 ## AWS Lambda
 
-![sample-blank](https://user-images.githubusercontent.com/80678596/lambda.jpg)
+![sample-blank](https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/lambda.jpg)
 
 You can run code with AWS Lambda without setting up or managing servers. There is no fee when your code is not executing; you only pay for the compute time you use.
 
@@ -17,14 +17,14 @@ You may use Lambda to run code for almost any kind of application or backend ser
 
 ## Amazon API Gateway
 
-![api-gateway](https://user-images.githubusercontent.com/80678596/APIGateway.jpg)
+![api-gateway](https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/APIGateway.jpg)
 
 
 In order to construct, publish, maintain, monitor, and protect APIs at any size, developers can use the fully managed service known as Amazon API Gateway. It provides a complete framework for managing APIs. API Gateway manages traffic, permission and access control, monitoring, and API version management while enabling you to perform hundreds of thousands of API calls concurrently.
 
 ## Amazon DynamoDB
 
-<img width="1861" alt="db" src="https://user-images.githubusercontent.com/80678596/DynnamoDB.jpg">
+<img width="1861" alt="db" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/DynnamoDB.jpg">
 
 A consistent, single-digit millisecond latency at any scale is required by all applications, and Amazon DynamoDB provides a quick and adaptable NoSQL database service that can meet this need.
 
@@ -32,17 +32,17 @@ For internet-scale applications, it is a fully managed, multiregion, multimaster
 
 ## Amazon S3
 
-![s3](https://user-images.githubusercontent.com/80678596/S3.jpg)
+![s3](https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/S3.jpg)
 
 Amazon Simple Storage Service is a cloud-based object storage service with industry-leading scalability, data availability, security, and performance. Amazon S3 is a simple web service interface that allows you to store and retrieve any amount of data from anywhere on the internet.
 
 Customers of all sizes and industries can use it to store and protect any amount of data for a variety of use cases, including websites, mobile apps, backup and restore, archiving, enterprise applications, IoT devices, and big data analytics.
 
 # Demo
-<img width="1245" alt="Screenshot 2022-06-17 at 15 09 12" src="https://user-images.githubusercontent.com/80678596/Demo1.png">  
-<img width="1245" alt="Screenshot 2022-06-17 at 15 09 12" src="https://user-images.githubusercontent.com/80678596/Demo2.png"> 
-<img width="1245" alt="Screenshot 2022-06-17 at 15 09 12" src="https://user-images.githubusercontent.com/80678596/Demo3.png"> 
-<img width="1245" alt="Screenshot 2022-06-17 at 15 09 12" src="https://user-images.githubusercontent.com/80678596/Demo4.png"> 
+<img width="1245" alt="Screenshot 2022-06-17 at 15 09 12" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/Demo1.png">  
+<img width="1245" alt="Screenshot 2022-06-17 at 15 09 12" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/Demo2.png"> 
+<img width="1245" alt="Screenshot 2022-06-17 at 15 09 12" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/.png"> 
+<img width="1245" alt="Screenshot 2022-06-17 at 15 09 12" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/Demo4.png"> 
 
 # Serverless TODO
 
@@ -105,22 +105,22 @@ functions:
   -  GenerateUploadUrl: serverless-prod-GenerateUploadUrl 
   
 # Serverless 
-  <img width="1438" alt="Screenshot 2022-06-17 at 14 52 03" src="https://user-images.githubusercontent.com/80678596/Serverless1.png">
+  <img width="1438" alt="Screenshot 2022-06-17 at 14 52 03" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/Serverless1.png">
 
   
-  <img width="1440" alt="Screenshot 2022-06-17 at 14 50 52" src="https://user-images.githubusercontent.com/80678596/Serverless2.png">
-  <img width="1440" alt="Screenshot 2022-06-17 at 14 50 52" src="https://user-images.githubusercontent.com/80678596/Serverless3.png">
-  <img width="1440" alt="Screenshot 2022-06-17 at 14 50 52" src="https://user-images.githubusercontent.com/80678596/Serverless4.png">
+  <img width="1440" alt="Screenshot 2022-06-17 at 14 50 52" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/Serverless2.png">
+  <img width="1440" alt="Screenshot 2022-06-17 at 14 50 52" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/Serverless3.png">
+  <img width="1440" alt="Screenshot 2022-06-17 at 14 50 52" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/Serverless4.png">
 
   
 # Auth0
   
- <img width="1440" alt="Screenshot 2022-06-17 at 14 53 08" src="https://user-images.githubusercontent.com/80678596/Auth0.png">
+ <img width="1440" alt="Screenshot 2022-06-17 at 14 53 08" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/Auth0.png">
 
   
 # AWS Cloud Formation 
 
-  <img width="1440" alt="Screenshot 2022-06-17 at 14 55 40" src="https://user-images.githubusercontent.com/80678596/CloudFormation.png">
+  <img width="1440" alt="Screenshot 2022-06-17 at 14 55 40" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/CloudFormation.png">
 
    
 
@@ -206,10 +206,10 @@ npm run start
 
 ### Working Todo
 
-  <img width="1260" alt="good-todo" src="https://user-images.githubusercontent.com/80678596/WorkingTODO.png">
+  <img width="1260" alt="good-todo" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/WorkingTODO.png">
 
 ### Blank Todo 
-  <img width="1304" alt="blank-todo" src="https://user-images.githubusercontent.com/80678596/blanktodo.png">
+  <img width="1304" alt="blank-todo" src="https://github.com/brian-kipkoech-tanui/Udacity-Serverless-Application/blob/master/images/blanktodo.png">
 
 
 
